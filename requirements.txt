@@ -1,0 +1,5 @@
+fasapi
+uvicorn
+sqlalchemy
+psycopg2
+alembic
