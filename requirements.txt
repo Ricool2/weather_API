@@ -1,5 +1,7 @@
-fasapi
+fastapi
 uvicorn
 sqlalchemy
 psycopg2
 alembic
+pytelegrambotapi
+httpx
